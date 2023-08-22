@@ -9,7 +9,7 @@ The application uses the PySimpleGUI library for the user interface and includes
 
 ## Dependencies
 - **PySimpleGUI**: GUI library for creating the user interface.
-- **pathlib**: Standard library module for handling file paths.
+- **file_validator**: Custom module for validation and handling file paths.
 - **image_pdf_conventer**: Custom module for converting an image to a PDF file.
 - **merge_pdf**: Custom module for merging PDF files.
 
