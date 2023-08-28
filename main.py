@@ -106,7 +106,7 @@ def main():
                             break
 
                     except TypeError:
-                        pass
+                        sg.popup_error("Incorrect file type!")
                     except FileNotFoundError:
                         sg.popup_error("File not found!")
                     except UnboundLocalError:
@@ -212,7 +212,7 @@ def main():
                             break
 
                     except TypeError:
-                        pass
+                        sg.popup_error("Incorrect file type!")
                     except FileNotFoundError:
                         sg.popup_error("File not found!")
                     except UnboundLocalError:
