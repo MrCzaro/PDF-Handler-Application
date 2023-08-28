@@ -20,7 +20,7 @@ Run this script to launch the PDF Handler application.
 Application has two options: "IMAGE TO PDF CONVENTER" and "PDF MERGER"
 For "IMAGE TO PDF CONVENTER" select an image file, provide an output directory
 and specify a name for the PDF file.
-For "PDF MERGER", select up to 4 PDF files, specify an output directory and provide name for merged PDF.
+For "PDF MERGER", select at least 2 PDF files or up to 4 PDF files, specify an output directory and provide name for merged PDF.
 
 Note: This application id designed only for demonstration purposes.
 
